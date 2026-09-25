@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "552e1362-9c72-4e50-ba01-04323116f262"
+      }
+    },
+    "owner": "kingdavidhub"
   }
 }
